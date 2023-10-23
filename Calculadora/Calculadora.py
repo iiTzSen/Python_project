@@ -1,3 +1,8 @@
+"""
+Calculadora básica
+
+"""
+
 n1 = input("Introduce el primer número: ")
 n2 = input("Introduce el segundo número: ")
 
